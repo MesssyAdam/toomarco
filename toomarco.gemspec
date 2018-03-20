@@ -5,7 +5,7 @@ require "toomarco/version"
 
 Gem::Specification.new do |spec|
   spec.name          = "toomarco"
-  spec.version       = Toomarco::VERSION
+  spec.version       = Toomarco::VERSION # TO-DO
   spec.authors       = ["MesssyAdam"]
   spec.email         = ["messsy.adam@gmail.com"]
 
