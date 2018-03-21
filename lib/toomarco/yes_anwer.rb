@@ -1,0 +1,2 @@
+module Yes
+end
