@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="d51a6ea3-da99-49fa-a316-a7952448b552" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/lib/toomarco.rb" afterPath="$PROJECT_DIR$/lib/toomarco.rb" />
       <change beforePath="$PROJECT_DIR$/lib/toomarco/kgreeting.rb" afterPath="$PROJECT_DIR$/lib/toomarco/kgreeting.rb" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -35,11 +34,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="kgreeting.rb" pinned="false" current-in-tab="false">
+      <file leaf-file-name="kgreeting.rb" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lib/toomarco/kgreeting.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+            <state relative-caret-position="68">
+              <caret line="4" column="70" lean-forward="false" selection-start-line="4" selection-start-column="70" selection-end-line="4" selection-end-column="70" />
               <folding />
             </state>
           </provider>
@@ -55,7 +54,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="misc_answer.rb" pinned="false" current-in-tab="true">
+      <file leaf-file-name="misc_answer.rb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/toomarco/misc_answer.rb">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
@@ -85,10 +84,10 @@
         <option value="$PROJECT_DIR$/Gemfile" />
         <option value="$PROJECT_DIR$/../tutorialz/cond_op.rb" />
         <option value="$PROJECT_DIR$/../tutorialz/objects2.rb" />
-        <option value="$PROJECT_DIR$/lib/toomarco/kgreeting.rb" />
         <option value="$PROJECT_DIR$/lib/toomarco.rb" />
         <option value="$PROJECT_DIR$/lib/toomarco/no_answer.rb" />
         <option value="$PROJECT_DIR$/lib/toomarco/misceal.rb" />
+        <option value="$PROJECT_DIR$/lib/toomarco/kgreeting.rb" />
       </list>
     </option>
   </component>
@@ -190,12 +189,12 @@
       <updated>1521572134343</updated>
       <workItem from="1521572135939" duration="3949000" />
       <workItem from="1521634090891" duration="3708000" />
-      <workItem from="1521650237707" duration="3503000" />
+      <workItem from="1521650237707" duration="3636000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11160000" />
+    <option name="totallyTimeSpent" value="11293000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -410,14 +409,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/toomarco/kgreeting.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lib/toomarco/misceal.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -438,6 +429,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/toomarco/kgreeting.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="70" lean-forward="false" selection-start-line="4" selection-start-column="70" selection-end-line="4" selection-end-column="70" />
           <folding />
         </state>
       </provider>
