@@ -1,4 +1,4 @@
-source "https://rubygems.org"
+source "https://github.com/MesssyAdam/toomarco"
 
 git_source(MesssyAdam:github) {|toomarco| "https://github.com/MesssyAdam/toomarco" }
 
